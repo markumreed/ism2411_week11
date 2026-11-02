@@ -26,6 +26,8 @@ print(customer)
 del customer['Name'] # Deleting a key-value pair from the dictionary
 print(customer)
 
+
+
 # Reflection 1: When I would use .get() and when I would use bracket notation:
 #   [2-3 sentences]
 #
